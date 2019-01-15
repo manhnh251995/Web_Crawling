@@ -2,8 +2,6 @@ import requests
 import json
 import time
 
-#key = 
-#url_tmp ="https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=21.021645,105.792128&radius=2000&type=bar&key=AIzaSyDGfat_Ogi_Q9maQlwJMipl5R-UTV83W5M"
 
 def Get_list_all_point():
     while True:
@@ -35,13 +33,9 @@ def Get_list_all_point():
 def import_value_into_json(l):
     tmp = {"type": "FeatureCollection", "features": []}
     for i in l:
-        #tmp2 = {"type": "Feature","geometry": {"type": "Point","coordinates":  [i["geometry"]["location"]["lng"],i["geometry"]["location"]["lng"]] },"properties": {"Address":i["vicinity"] ,"name":i["name"] }}
         tmp2 = {"type": "Feature", "geometry": {"type": "Point", "coordinates": [i["geometry"]["location"]["lng"],i["geometry"]["location"]["lng"]]}, "properties": {"Address": i["vicinity"], "name": i["name"]}}
         tmp["features"].append(tmp2)
     return tmp    
-#
-#with open("goole_map_bar_restaurant_beer.geojson","w") as f:
-#   json.dump(tmp,f,ensure_ascii=False,indent=2)
 
 if __name__ == "__main__":
     with open("goole_map_bar_restaurant_beer22.geojson","w") as f:
