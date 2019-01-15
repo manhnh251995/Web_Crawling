@@ -1,845 +1,845 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "455 Nguyễn Khang, Yên Hoà",
-        "name": "Cafe Film 3D Box"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7995291,
           105.7995291
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cafe Film 3D Box",
+        "Address": "455 Nguyễn Khang, Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "66 Trung Kính, Yên Hoà",
-        "name": "Phở Gà Bà Tố"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7951715,
           105.7951715
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Phở Gà Bà Tố",
+        "Address": "66 Trung Kính, Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "1073 Đê la Thành, Láng Thượng",
-        "name": "Quán May"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8066691,
           105.8066691
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Quán May",
+        "Address": "1073 Đê la Thành, Láng Thượng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Big C Thăng Long 222 Trần Duy Hưng, Cau Giay Ward",
-        "name": "Pizza Hut"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7930974,
           105.7930974
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pizza Hut",
+        "Address": "Big C Thăng Long 222 Trần Duy Hưng, Cau Giay Ward"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Số 2 Ngõ 84 Trần Thái Tông, Dịch Vọng Hậu",
-        "name": "Biển Đông Restaurant"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7876693,
           105.7876693
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Biển Đông Restaurant",
+        "Address": "Số 2 Ngõ 84 Trần Thái Tông, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "105 Trần Thái Tông, Dịch Vọng Hậu",
-        "name": "Kichi - Kichi Restaurant"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7883047,
           105.7883047
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kichi - Kichi Restaurant",
+        "Address": "105 Trần Thái Tông, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Số 40 đường Trần Duy Hưng, phường Trung Hòa, Trung Hoà",
-        "name": "Nhà hàng Bia Tiệp Trúc Viên"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8015874,
           105.8015874
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Nhà hàng Bia Tiệp Trúc Viên",
+        "Address": "Số 40 đường Trần Duy Hưng, phường Trung Hòa, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Big C, Tầng 1, 222 Trần Duy Hưng, Trung Hoà",
-        "name": "SumoBBQ BigC"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7924524,
           105.7924524
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SumoBBQ BigC",
+        "Address": "Big C, Tầng 1, 222 Trần Duy Hưng, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "103D5A, Trần Thái Tông, Dịch Vọng Hậu",
-        "name": "GoGi House Trần Thái Tông"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7883942,
           105.7883942
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "GoGi House Trần Thái Tông",
+        "Address": "103D5A, Trần Thái Tông, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "89 Nguyễn Khang, Cầu Giấy",
-        "name": "Mơ Hoa Restaurant"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8014914,
           105.8014914
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mơ Hoa Restaurant",
+        "Address": "89 Nguyễn Khang, Cầu Giấy"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "78, Phố Duy Tân, Dịch Vọng Hậu",
-        "name": "Núi Tản Restaurant"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7832789,
           105.7832789
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Núi Tản Restaurant",
+        "Address": "78, Phố Duy Tân, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "47 Nguyễn Khang, Trung Hoà",
-        "name": "Nhà Hàng Sóng Biển"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8030283,
           105.8030283
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Nhà Hàng Sóng Biển",
+        "Address": "47 Nguyễn Khang, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Số 1, Lô 13B, Khu ĐTM Trung Yên, Trung Hòa, Trung Hoà",
-        "name": "KFC Restaurant Trung Hòa"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8000457,
           105.8000457
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KFC Restaurant Trung Hòa",
+        "Address": "Số 1, Lô 13B, Khu ĐTM Trung Yên, Trung Hòa, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "67 Vũ Phạm Hàm, Yên Hoà",
-        "name": "Lẩu Nấm Gia Khánh"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8007709,
           105.8007709
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lẩu Nấm Gia Khánh",
+        "Address": "67 Vũ Phạm Hàm, Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "1 Trần Đăng Ninh, Dịch Vọng",
-        "name": "Dong Son Drum Restaurant"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7934391,
           105.7934391
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dong Son Drum Restaurant",
+        "Address": "1 Trần Đăng Ninh, Dịch Vọng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "45 Mễ Trì, Mỹ Đình",
-        "name": "Pizza Hoa Ý"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7780583,
           105.7780583
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pizza Hoa Ý",
+        "Address": "45 Mễ Trì, Mỹ Đình"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Tòa A - Udic complex N04, Khu ẩm thực, Hoàng Đạo Thúy, Trung Hoà",
-        "name": "Quán Nem Hoàng Đạo Thuý"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8007317,
           105.8007317
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Quán Nem Hoàng Đạo Thuý",
+        "Address": "Tòa A - Udic complex N04, Khu ẩm thực, Hoàng Đạo Thúy, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Nguyễn Chánh, Trung Hoà",
-        "name": "Phở Gà Huy Khánh"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7942035,
           105.7942035
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Phở Gà Huy Khánh",
+        "Address": "Nguyễn Chánh, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "372-374 Đường Cầu Giấy, Dịch Vọng",
-        "name": "KFC Cầu Giấy"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7914452,
           105.7914452
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KFC Cầu Giấy",
+        "Address": "372-374 Đường Cầu Giấy, Dịch Vọng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "55 Trương Công Giai, Dịch Vọng",
-        "name": "Công ty cổ phần DEVYT"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7900528,
           105.7900528
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Công ty cổ phần DEVYT",
+        "Address": "55 Trương Công Giai, Dịch Vọng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "85 Nguyễn Khang, Yên Hoà",
-        "name": "Royal Karaoke"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8016292,
           105.8016292
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Royal Karaoke",
+        "Address": "85 Nguyễn Khang, Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "12 Nguyễn Khang, Yên Hoà",
-        "name": "Dragon Karaoke"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8011692,
           105.8011692
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dragon Karaoke",
+        "Address": "12 Nguyễn Khang, Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Tầng 2-4, 150 Nguyễn Chánh, Khu A10 Nam Trung Yên, Phường Yên Hoà",
-        "name": "Grand Vin de Bordeaux Wine House"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7868402,
           105.7868402
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Grand Vin de Bordeaux Wine House",
+        "Address": "Tầng 2-4, 150 Nguyễn Chánh, Khu A10 Nam Trung Yên, Phường Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Vũ Phạm Hàm, Ngã Tư Trung Yên",
-        "name": "Hải Hói Beer Hall"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7980354,
           105.7980354
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hải Hói Beer Hall",
+        "Address": "Vũ Phạm Hàm, Ngã Tư Trung Yên"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "",
-        "name": "Lân Beer Quán 2"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7917896,
           105.7917896
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lân Beer Quán 2",
+        "Address": ""
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Số 3, Trung Yên 3, Trung Hoà",
-        "name": "Belgian Beer Club BBC"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8005185,
           105.8005185
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Belgian Beer Club BBC",
+        "Address": "Số 3, Trung Yên 3, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "5 Phố Duy Tân, Dịch Vọng Hậu",
-        "name": "Novotel Suites Hanoi"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.785323,
           105.785323
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Novotel Suites Hanoi",
+        "Address": "5 Phố Duy Tân, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Mễ Trì",
-        "name": "Minh Châu Brewpup"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7831733,
           105.7831733
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Minh Châu Brewpup",
+        "Address": "Mễ Trì"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Mỹ Đình",
-        "name": "Karaoke Blue"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7787513,
           105.7787513
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Karaoke Blue",
+        "Address": "Mỹ Đình"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "116 Trần Duy Hưng, Trung Hoà",
-        "name": "Karaoke iSing"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7996215,
           105.7996215
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Karaoke iSing",
+        "Address": "116 Trần Duy Hưng, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "39 Trần Thái Tông, Dịch Vọng Hậu",
-        "name": "Summit Karaoke"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7888465,
           105.7888465
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Summit Karaoke",
+        "Address": "39 Trần Thái Tông, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "so 10 pho Thien Hien Nam, Mỹ Đình",
-        "name": "Nam Dương Karaoke Club"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7778303,
           105.7778303
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Nam Dương Karaoke Club",
+        "Address": "so 10 pho Thien Hien Nam, Mỹ Đình"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "98 Nguyễn Chí Thanh, Láng Thượng",
-        "name": "Cheers Beer"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8057679,
           105.8057679
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cheers Beer",
+        "Address": "98 Nguyễn Chí Thanh, Láng Thượng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "54 Chùa Láng, Láng Thượng",
-        "name": "Moonlight Karaoke Club"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8074858,
           105.8074858
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Moonlight Karaoke Club",
+        "Address": "54 Chùa Láng, Láng Thượng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Trung Hoà",
-        "name": "Bar Phan"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8017614,
           105.8017614
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bar Phan",
+        "Address": "Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "8 Chùa Láng, Q.Đống Đa, TP.Hà Nội, Láng Thượng",
-        "name": "Dương Cầm Karaoke"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8082959,
           105.8082959
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dương Cầm Karaoke",
+        "Address": "8 Chùa Láng, Q.Đống Đa, TP.Hà Nội, Láng Thượng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Phòng 2906, Lầu 29, Tòa Nhà 34 Tầng, Khu Đô Thị Trung - Hòa Nhân Chính, Quận Cầu Giấy, Trung Hoà",
-        "name": "Công Ty TNHH Future Generation"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8011329,
           105.8011329
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Công Ty TNHH Future Generation",
+        "Address": "Phòng 2906, Lầu 29, Tòa Nhà 34 Tầng, Khu Đô Thị Trung - Hòa Nhân Chính, Quận Cầu Giấy, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Ngõ 86 Phố Chùa Hà, Quan Hoa",
-        "name": "Phoenix shisha"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7952688,
           105.7952688
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Phoenix shisha",
+        "Address": "Ngõ 86 Phố Chùa Hà, Quan Hoa"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "B1 Mandarin Garden (Behind Grand Plaza hotel, next to Hanoi-Amsterdam School Hanoi City",
-        "name": "Paula’s Wines"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.798372,
           105.798372
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Paula’s Wines",
+        "Address": "B1 Mandarin Garden (Behind Grand Plaza hotel, next to Hanoi-Amsterdam School Hanoi City"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "1 Nguyễn Khánh Toàn, Quan Hoa",
-        "name": "Karaoke Las Vegas"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8041844,
           105.8041844
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Karaoke Las Vegas",
+        "Address": "1 Nguyễn Khánh Toàn, Quan Hoa"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Hanoi",
-        "name": "Hanoi"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8341598,
           105.8341598
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hanoi",
+        "Address": "Hanoi"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "50 Nguyễn Chí Thanh, Đống Đa",
-        "name": "Bảo Sơn Hotel"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8105289,
           105.8105289
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bảo Sơn Hotel",
+        "Address": "50 Nguyễn Chí Thanh, Đống Đa"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "202 Trần Duy Hưng, Trung Hoà",
-        "name": "Brandi Hotel 2"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7970474,
           105.7970474
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brandi Hotel 2",
+        "Address": "202 Trần Duy Hưng, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "69 Tran Duy Hung Street, Cau Giay District, Hanoi",
-        "name": "Lucky Hotel 69"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8013168,
           105.8013168
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lucky Hotel 69",
+        "Address": "69 Tran Duy Hung Street, Cau Giay District, Hanoi"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "66 Trần Thái Tông, Dịch Vọng Hậu",
-        "name": "Yến-Hotel"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7887439,
           105.7887439
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Yến-Hotel",
+        "Address": "66 Trần Thái Tông, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "56 Nguyễn Chánh, Trung Hoà",
-        "name": "Hotel Ruby"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7945948,
           105.7945948
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hotel Ruby",
+        "Address": "56 Nguyễn Chánh, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "26-28 Mễ Trì Hạ, Mễ Trì",
-        "name": "Ping Hotel Hanoi"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7808897,
           105.7808897
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ping Hotel Hanoi",
+        "Address": "26-28 Mễ Trì Hạ, Mễ Trì"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "No.142 Trung Hoa Street,, Cau Giay, Hanoi, Hanoi, Yên Hoà",
-        "name": "Lucky Hotel 142"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7992733,
           105.7992733
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lucky Hotel 142",
+        "Address": "No.142 Trung Hoa Street,, Cau Giay, Hanoi, Hanoi, Yên Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "B24 Alley 57 Nguyen Khanh Toan, Cau Giay, Dịch Vọng",
-        "name": "Mely Hotel 2"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7968023,
           105.7968023
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mely Hotel 2",
+        "Address": "B24 Alley 57 Nguyen Khanh Toan, Cau Giay, Dịch Vọng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "18, Ngõ 80 Trần Duy Hưng, Trung Hoà",
-        "name": "Hotel Phú Nhuận"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.800704,
           105.800704
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hotel Phú Nhuận",
+        "Address": "18, Ngõ 80 Trần Duy Hưng, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "78 Trần Thái Tông, Dịch Vọng Hậu",
-        "name": "Luxeden hotel"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7887174,
           105.7887174
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Luxeden hotel",
+        "Address": "78 Trần Thái Tông, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "A15, Nguyễn Chánh, Trung Hoà",
-        "name": "Mai Villa Hotel 1"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7944483,
           105.7944483
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mai Villa Hotel 1",
+        "Address": "A15, Nguyễn Chánh, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "146 Trần Duy Hưng, Trung Hoà",
-        "name": "Hotel Seoul"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.798708,
           105.798708
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hotel Seoul",
+        "Address": "146 Trần Duy Hưng, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "20 Phạm Hùng",
-        "name": "Saigon Sun Hotel 3"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7887348,
           105.7887348
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Saigon Sun Hotel 3",
+        "Address": "20 Phạm Hùng"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "No 20, Alley 107, Nguyen Chi Thanh Street, Dong Da District, Láng Hạ",
-        "name": "Quang Chung Hotel"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.80579,
           105.80579
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Quang Chung Hotel",
+        "Address": "No 20, Alley 107, Nguyen Chi Thanh Street, Dong Da District, Láng Hạ"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Số 37 Ngõ 1 - Nguyễn Thị Định",
-        "name": "Hotel Nam San"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8046424,
           105.8046424
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hotel Nam San",
+        "Address": "Số 37 Ngõ 1 - Nguyễn Thị Định"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Tòa nhà Detech, Số 8, Tôn Thất Thuyết, Mỹ Đình",
-        "name": "FPT University Hanoi"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7817144,
           105.7817144
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "FPT University Hanoi",
+        "Address": "Tòa nhà Detech, Số 8, Tôn Thất Thuyết, Mỹ Đình"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "58 Phố Duy Tân, Dịch Vọng Hậu",
-        "name": "Công ty CP Kiến Trúc A1"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.785733,
           105.785733
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Công ty CP Kiến Trúc A1",
+        "Address": "58 Phố Duy Tân, Dịch Vọng Hậu"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "20 Ngõ 80 Trần Duy Hưng, Trung Hoà",
-        "name": "Hotel Khải Hoàn"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.8007025,
           105.8007025
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hotel Khải Hoàn",
+        "Address": "20 Ngõ 80 Trần Duy Hưng, Trung Hoà"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "Address": "Trung Hoà",
-        "name": "Trung Hoà"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           105.7988345,
           105.7988345
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Trung Hoà",
+        "Address": "Trung Hoà"
+      },
+      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
