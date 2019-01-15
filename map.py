@@ -33,9 +33,10 @@ def Get_list_all_point():
     return l
 
 def import_value_into_json(l):
-    tmp = {"type":"FeatureCollection","features":[]}
+    tmp = {"type": "FeatureCollection", "features": []}
     for i in l:
-        tmp2 = {"type": "Feature","geometry": {"type": "Point","coordinates":  [i["geometry"]["location"]["lng"],i["geometry"]["location"]["lng"]] },"properties": {"Address":i["vicinity"] ,"name":i["name"] }}
+        #tmp2 = {"type": "Feature","geometry": {"type": "Point","coordinates":  [i["geometry"]["location"]["lng"],i["geometry"]["location"]["lng"]] },"properties": {"Address":i["vicinity"] ,"name":i["name"] }}
+        tmp2 = {"type": "Feature", "geometry": {"type": "Point", "coordinates": [i["geometry"]["location"]["lng"],i["geometry"]["location"]["lng"]]}, "properties": {"Address": i["vicinity"], "name": i["name"]}}
         tmp["features"].append(tmp2)
     return tmp    
 #
@@ -43,7 +44,7 @@ def import_value_into_json(l):
 #   json.dump(tmp,f,ensure_ascii=False,indent=2)
 
 if __name__ == "__main__":
-    with open("goole_map_bar_restaurant_beer.geojson","w") as f:
+    with open("goole_map_bar_restaurant_beer22.geojson","w") as f:
         json.dump(import_value_into_json(Get_list_all_point()),f,ensure_ascii=False,indent=2)
 
 
