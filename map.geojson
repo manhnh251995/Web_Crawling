@@ -1,0 +1,565 @@
+{
+  "features": [
+    {
+      "properties": {
+        "Address": "455 Nguyễn Khang, Yên Hoà",
+        "name": "Cafe Film 3D Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7995291,
+          21.0286698
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "66 Trung Kính, Yên Hoà",
+        "name": "Phở Gà Bà Tố"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7951715,
+          21.0152144
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "1073 Đê la Thành, Láng Thượng",
+        "name": "Quán May"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8066691,
+          21.028232
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Big C Thăng Long 222 Trần Duy Hưng, Cau Giay Ward",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7930974,
+          21.0068602
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Số 2 Ngõ 84 Trần Thái Tông, Dịch Vọng Hậu",
+        "name": "Biển Đông Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7876693,
+          21.0321388
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "105 Trần Thái Tông, Dịch Vọng Hậu",
+        "name": "Kichi - Kichi Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7883047,
+          21.0321654
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Số 40 đường Trần Duy Hưng, phường Trung Hòa, Trung Hoà",
+        "name": "Nhà hàng Bia Tiệp Trúc Viên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8015874,
+          21.012795
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Big C, Tầng 1, 222 Trần Duy Hưng, Trung Hoà",
+        "name": "SumoBBQ BigC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7924524,
+          21.0073945
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "103D5A, Trần Thái Tông, Dịch Vọng Hậu",
+        "name": "GoGi House Trần Thái Tông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7883942,
+          21.0328467
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "89 Nguyễn Khang, Cầu Giấy",
+        "name": "Mơ Hoa Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8014914,
+          21.0191234
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "78, Phố Duy Tân, Dịch Vọng Hậu",
+        "name": "Núi Tản Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7832789,
+          21.0314034
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "47 Nguyễn Khang, Trung Hoà",
+        "name": "Nhà Hàng Sóng Biển"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8030283,
+          21.0166681
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Số 1, Lô 13B, Khu ĐTM Trung Yên, Trung Hòa, Trung Hoà",
+        "name": "KFC Restaurant Trung Hòa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8000457,
+          21.0160328
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "67 Vũ Phạm Hàm, Yên Hoà",
+        "name": "Lẩu Nấm Gia Khánh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8007709,
+          21.0199609
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "1 Trần Đăng Ninh, Dịch Vọng",
+        "name": "Dong Son Drum Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7934391,
+          21.0358265
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "45 Mễ Trì, Mỹ Đình",
+        "name": "Pizza Hoa Ý"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7780583,
+          21.0153649
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Tòa A - Udic complex N04, Khu ẩm thực, Hoàng Đạo Thúy, Trung Hoà",
+        "name": "Quán Nem Hoàng Đạo Thuý"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8007317,
+          21.0086901
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Nguyễn Chánh, Trung Hoà",
+        "name": "Phở Gà Huy Khánh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7942035,
+          21.0099732
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "372-374 Đường Cầu Giấy, Dịch Vọng",
+        "name": "KFC Cầu Giấy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7914452,
+          21.0361273
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "55 Trương Công Giai, Dịch Vọng",
+        "name": "Công ty cổ phần DEVYT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7900528,
+          21.0316346
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Số 13, lô 2C, Phố Trung Hòa, Yên Hoà",
+        "name": "Nhà Hàng Nhật Hàn Sura Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7990553,
+          21.0168722
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Phòng 305, 109 Trần Duy Hưng",
+        "name": "Sontinh Camp Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7999813,
+          21.0106474
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Tầng 1, Tòa Nhà Chelsea Park, 116 Trung Kính, Yên Hoà",
+        "name": "Cô Tô Restaurant Chelsea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7931441,
+          21.0186452
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Số 2 Lô 12 KĐT Dịch Vọng, Đường Thành Thái, Phường Dịch Vọng",
+        "name": "Ngư Quán - Đặc sản cá sông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7924443,
+          21.0276784
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "120 Vũ Phạm Hàm, Yên Hoà",
+        "name": "Minh Quân Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7993872,
+          21.0186561
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "794 Đường Láng, P. Láng Thượng, Láng Thượng",
+        "name": "East Sea Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.803089,
+          21.0182195
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "86 Trung Hòa, Trung Hoà",
+        "name": "Phở Bách Lộc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8001024,
+          21.0163793
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "36 Trung Yên 3, Yên Hoà",
+        "name": "Nhà hàng Mường Khương"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.800195,
+          21.019602
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "83 Nguyễn Khang, Trung Hoà",
+        "name": "Cafe Milo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.801762,
+          21.017429
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "24 Mạc Thái Tông, Trung Hoà",
+        "name": "Quán Nhà Ta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7943434,
+          21.0136173
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "18 Đỗ Quang, Trung Hoà",
+        "name": "Cửa hàng Complet Veston Ngọc Anh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.801708,
+          21.011164
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Số 4 Ngõ 67, Trung Yên 3, Trung Hoà",
+        "name": "Nhà hàng Việt Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8025896,
+          21.0164823
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Bt9 Trung Yên 9, Yên Hòa, Cầu Giấy",
+        "name": "Nhà Hàng Vị Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.800059,
+          21.018785
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "70 Đồng Bông",
+        "name": "Đại Lý Trà Việt - Banchethai.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7870811,
+          21.0323003
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "Nguyễn Chánh, Trung Hoà",
+        "name": "Phở Bò Ngọc Vượng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7941811,
+          21.0100906
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "198 Trung Kính, Yên Hoà",
+        "name": "Cigar & Wine Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7915425,
+          21.0210531
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "299 Trung Kính",
+        "name": "Lotteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7909269,
+          21.0212318
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "",
+        "name": "Nhà hàng Sơn Thiên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7939779,
+          21.0189613
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "27 Mạc Thái Tổ, Yên Hoà",
+        "name": "Minh Phuong Wine Cellar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7918382,
+          21.0184358
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "Address": "38, Trần Kim Xuyến, Yên Hoà",
+        "name": "G7 Wine & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7947772,
+          21.0188079
+        ]
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
