@@ -1,0 +1,607 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.807473893,
+          20.999774146
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Ami",
+        "Address": "Số 1 Nguyễn Huy Tưởng - Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80759346485,
+          20.999694074359
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe phim 3D: 50 Nguyễn Huy Tưởng",
+        "Address": "Số 50 Nguyễn Huy Tưởng, Thanh Xuân,"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80677270889,
+          20.999205781281
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe phim 3D Hà Nội",
+        "Address": "50 Nguyễn Huy Tưởng - Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8075501,
+          20.9995757
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "CafeBiz",
+        "Address": "CafeBiz - Công ty Cổ phần truyền thông Việt Nam VCCORP Địa chỉ: Tầng 21 Toà nhà Center Building - Hapulico Complex, Số 1 Nguyễn Huy Tưởng, Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80563545227,
+          21.002711439735
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Trill Rooftop Cafe",
+        "Address": "Tầng 26 ( Rooftop ), Tòa nhà Hei Tower, số 1 Nguỵ Như Kon Tum, Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8076194,
+          21.0006109
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hapu Cafe - Restaurant",
+        "Address": "85 Vũ Trọng Phụng , Thanh Xuân , Hà Nội"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8029425016,
+          21.001489476482
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe sách Đông Tây",
+        "Address": "Tầng 1, Khách sạn Thể Thao"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80116621484,
+          21.002966963617
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "2F Cafe",
+        "Address": "ĐƯỜNG Lê Văn Lương"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80374,
+          21.00642
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mimosa Cafe",
+        "Address": "Phố Hoàng Đạo Thúy"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80759,
+          21.00046
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "CafeF - Bất động sản",
+        "Address": "85 Vũ Trọng Phụng, Quận Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80998599529,
+          21.007804513931
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Khởi Nghiệp ZStartUp",
+        "Address": "Sô 40 ngõ 80 Hoàng Ngân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.813458,
+          20.9972089
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tâm Cafe 20 - Khương Đình",
+        "Address": "20, Khương Đình"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80982,
+          20.99633
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ly’s Cafe 328 Nguyễn Trãi, Thanh Xuân",
+        "Address": "328 Nguyễn Trãi, Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.806433252,
+          20.993883859354
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chago Tea & Caf'e 378 Nguyễn Trãi",
+        "Address": "Nguyễn Trãi"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8148444,
+          20.998973
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tổ Cafe",
+        "Address": "Ngõ 133 Nguyễn Trãi"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80085496383,
+          21.002833399476
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cây Sưa Cafe - N2E",
+        "Address": "Đường Lê Văn Lương"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81660945715,
+          20.997885101005
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Quán Typograf Cafe - Thượng Đình",
+        "Address": "No. 158 Thuong Dinh Str."
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81409732443,
+          20.998905428872
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "H2 Cafe",
+        "Address": "159 Nguyễn Trãi, Thanh Xuân, Hà Nội"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.7987,
+          20.99753
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Đèn Dầu Cafe - 160 Khuất Duy Tiến",
+        "Address": "160  Đường Khuất Duy Tiến"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8009308,
+          20.9990132
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Omely Cafe - Ngụy Như Kon Tum",
+        "Address": "76 Ngụy Như Kon Tum"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80612133297,
+          21.006422021867
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe sắc màu số 2 Nguyễn thị định",
+        "Address": "2, Nguyễn Thị Định"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8169824421,
+          21.000971920815
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe cộng",
+        "Address": "123 Nguyễn Trãi"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80161750317,
+          21.004972545753
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe de Seoul",
+        "Address": "Lô T1, Ngõ 125 Lê Văn Lương"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8117729405,
+          21.00726064487
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "24G Cafe",
+        "Address": "Số 3 - 68 Quan Nhân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.807579,
+          20.9946098
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nguyên liệu pha chế cafe - trà sữa tại Hà Nội",
+        "Address": "Km10, Nguyễn Trãi, Thanh Xuân, Hà Nội"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80303907394,
+          20.997422871968
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "BỮA ĂN VUI VẺ  - Restaurant and Café",
+        "Address": "Lô D1A, Tầng 1 - Sảnh Tòa D - Imperia Garden, 203 Nguyễn Huy Tưởng (hoặc cổng 2: 143 Nguyễn Tuân), Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8027702,
+          21.0003078
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Không gian văn hóa Đông Tây - Biblio Cafe Sách Hacinco",
+        "Address": "99 Ngụy Như Kon Tum"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80550702085,
+          21.007257465851
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dũng Cafe 40 Nguyễn Thị Định",
+        "Address": "42 Nguyễn Thị Định"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81486225128,
+          21.003051985026
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Half Full - Bistro & Café Royal City",
+        "Address": "Tầng 1, Sảnh R3A (Đối diện quảng trường), Royal City, 72 Nguyễn Trãi"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81584,
+          20.99611
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rêu Cafe - 181 Vũ Tông Phan",
+        "Address": "Số 181 , đường Vũ Tông Phan , quận Thanh Xuân , TP. Hà Nội"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80814599991,
+          20.992895388586
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "MANO CAFE",
+        "Address": "275 Nguyễn Trãi Toà nhà Hoàng Huy"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81318968654,
+          20.998154193363
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bể Cá Thủy Sinh - Xanh - Cafe",
+        "Address": "223 nguyễn trãi, thượng đình, thanh xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80277,
+          21.0021999
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "CAFE Sáng Chủ Nhật",
+        "Address": "Le Van Thiem"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8121813,
+          21.0070538
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "CafeBank VietNam",
+        "Address": "51 Quan Nhân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80318927765,
+          20.993756822991
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "LAI CAFE",
+        "Address": "Số 49 ngõ 470 đường Nguyễn Trãi (Cuối ngõ 2 Khuất Duy Tiến) Thanh Xuân, Hà Nội"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80918,
+          20.99575
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "The Coffee Land \"Cafe chất, Đầu tư chắc\"",
+        "Address": "Gò vấp"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80024421215,
+          21.002483574438
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Giảm Cân Hoa Mộc Lâm",
+        "Address": "N2B Trung Hòa Nhân Chính Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.80962657928,
+          21.007118436388
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Luật Hà Nội",
+        "Address": "89 Hoàng Ngân, Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8136,
+          20.99838
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Câu Lạc Bộ Tiếng Anh Cafe Vũng Tàu",
+        "Address": "Nguyễn Trãi 201"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8135846,
+          20.9981367
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Đắk Lộc_Cafe hạt 100%",
+        "Address": "Bình Tân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.813759,
+          20.9971874
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Túi Thơm Cafe Hà Nội",
+        "Address": "số 25 ngõ 65/30 Đường Khương Đình, phường Khương Hạ , Thanh Xuân"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81514649647,
+          21.004439835841
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Xin Wang Hong Kong Cafe Viet Nam",
+        "Address": "R2-8, Tầng B2, Royal City, 72A Nguyễn Trãi"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81560464444,
+          20.996159626111
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rêu Cafe - K+ Bóng đá",
+        "Address": "181 Vũ Tông Phan"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
